@@ -22,7 +22,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 
-<a href="https://telegram.me/ihamurmi"><img align="left" src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="amirhosein | Telegram" width="21px"/></a>
+<a href="https://telegram.me/ihamurmi"><img align="left" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirhosein | Telegram" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
