@@ -10,7 +10,7 @@ This project is a bit irregular and will be updated over time:)
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">amirhosein</a> 👋
+Hi there, I'm amirhosein👋
 </h3>
 
 <h2 align="center">
@@ -25,6 +25,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://telegram.me/ihamurmi"><img align="left" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="amirhosein | Telegram" width="21px"/></a>
 
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
