@@ -1,10 +1,4 @@
 
-<h1>
-project main 
-</h1>
-<h3>
-This project is a bit irregular and will be updated over time:)
-</h3>
 <p align="center">
 
 </p>
@@ -52,3 +46,11 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<h1>
+project main 
+</h1>
+<h3>
+This project is a bit irregular and will be updated over time:)
+</h3>
