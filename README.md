@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm amirhosein👋
+Hi there, I'm Amirhosein👋
 </h3>
 
 <h2 align="center">
