@@ -8,7 +8,7 @@ Hi there, I'm amirhosein👋
 </h3>
 
 <h2 align="center">
-I'm a Back-end Web Developer 💻!
+I'm a AI Developer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -30,6 +30,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🌱 I'm currently learning
 
 - SQL
+- AI
+
 
 ## 💼 Technical Skills
 
