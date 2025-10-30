@@ -47,8 +47,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 </br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 <h1>
